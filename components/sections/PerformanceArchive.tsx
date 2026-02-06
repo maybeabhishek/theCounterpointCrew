@@ -97,7 +97,7 @@ const PerformanceArchive: React.FC<PerformanceArchiveProps> = ({ performances, u
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center justify-center p-1.5 bg-black text-white rounded-full hover:bg-[#E23744] transition-all duration-300 hover:scale-105"
-                        title="Book tickets"
+                        title="Book on District"
                       >
                         <img
                           src="https://b.zmtcdn.com/data/edition_assets/17466982242413.svg"
